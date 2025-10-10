@@ -1,0 +1,19 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Estudos do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovanni1712/clone-tabnews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giovanni1712/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/Giovanni1712/clone-tabnews#readme"
+}
